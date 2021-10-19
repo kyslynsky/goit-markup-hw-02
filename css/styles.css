@@ -82,6 +82,7 @@ body {
 
 .section-hero .btn {
     background-color: var(--accent-color);
+    font-family: Roboto, sans-serif;
     color: var(--primary-white);
     font-weight: 700;
     font-size: 16px;
@@ -105,6 +106,7 @@ body {
 .features .title {
     color: var(--title-text-color);
     font-weight: 700;
+    font-size: 14px;
     line-height: 1.14;
     text-transform: uppercase;
 }
@@ -129,6 +131,10 @@ body {
     background-color: var(--footer-bg-color);
 }
 
+.footer .logo {
+    color: var(--primary-white);
+}
+
 .contacts .place {
     color: var(--primary-white);
     font-style: normal;
@@ -148,6 +154,7 @@ body {
 
 .filters .btn {
     background-color: var(--primary-white);
+    font-family: Roboto, sans-serif;
     color: var(--title-text-color);
     font-weight: 500;
     font-size: 16px;
